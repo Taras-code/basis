@@ -87,4 +87,5 @@ http://www.babeaz.com/python/UnderstandingGIL.pdf
 - 生产者消费者模型
     - JoinableQueue (带参数函数如果没有参数，不会执行)PS：V
     - 队列里哨兵的使用， 案例V6(由几个子线程就在队列里放几个元素q.put(None))
+    
             
