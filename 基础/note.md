@@ -11,6 +11,8 @@
         - next预激（prime）
         - 哨符值（None和Ellipsis等常量）
         - yield from（委派生成器：）
+re(正则表达式):
+re.match() 
 Xpath
 -
 FTP:
